@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;nucleo-l476rg-ADC_DMA&apos; to &apos;nucleo-l476rg-ADC&apos;" description="Rename resource &apos;nucleo-l476rg-ADC_DMA&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/nucleo-l476rg-ADC_DMA" name="nucleo-l476rg-ADC" stamp="1679054166530" updateReferences="true"/>
+</session>

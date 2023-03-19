@@ -1,7 +1,13 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:nucleo-l476rg-Blinky Debug
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:nucleo-l476rg-Blinky Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:nucleo-l476rg-VCom Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:nucleo-l476rg-VCom_I2C Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:nucleo-l476rg-stmStudio Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:nucleo-l476rg-ADCDMA Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:nucleo-l476rg-DMA_UART Debug
 eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:nucleo-l476rg-ADCDMA\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:nucleo-l476rg-ADC_DMA\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:nucleo-l476rg-ADC_DMA\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:nucleo-l476rg-Blinky\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:nucleo-l476rg-Blinky\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:nucleo-l476rg-DMA_UART\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:nucleo-l476rg-VCom_I2C\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:nucleo-l476rg-stmStudio\ Debug/activeLaunchMode=debug

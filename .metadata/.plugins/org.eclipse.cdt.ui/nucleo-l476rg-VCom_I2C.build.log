@@ -1,4 +1,4 @@
-15:47:00 **** Incremental Build of configuration Debug for project nucleo-l476rg-VCom_I2C ****
+17:11:52 **** Incremental Build of configuration Debug for project nucleo-l476rg-VCom_I2C ****
 make -j8 all 
 arm-none-eabi-size   nucleo-l476rg-VCom_I2C.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size   nucleo-l476rg-VCom_I2C.elf
 Finished building: default.size.stdout
  
 
-15:47:00 Build Finished. 0 errors, 0 warnings. (took 455ms)
+17:11:52 Build Finished. 0 errors, 0 warnings. (took 811ms)
 

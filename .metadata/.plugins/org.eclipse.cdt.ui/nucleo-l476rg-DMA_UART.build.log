@@ -1,4 +1,4 @@
-16:43:07 **** Incremental Build of configuration Debug for project nucleo-l476rg-DMA_UART ****
+17:11:48 **** Incremental Build of configuration Debug for project nucleo-l476rg-DMA_UART ****
 make -j8 all 
 arm-none-eabi-size   nucleo-l476rg-DMA_UART.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size   nucleo-l476rg-DMA_UART.elf
 Finished building: default.size.stdout
  
 
-16:43:08 Build Finished. 0 errors, 0 warnings. (took 959ms)
+17:11:49 Build Finished. 0 errors, 0 warnings. (took 458ms)
 

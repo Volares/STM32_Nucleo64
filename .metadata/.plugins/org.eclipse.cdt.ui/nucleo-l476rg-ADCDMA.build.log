@@ -1,4 +1,4 @@
-15:47:15 **** Incremental Build of configuration Debug for project nucleo-l476rg-ADCDMA ****
+17:11:47 **** Incremental Build of configuration Debug for project nucleo-l476rg-ADCDMA ****
 make -j8 all 
 arm-none-eabi-size   nucleo-l476rg-ADCDMA.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size   nucleo-l476rg-ADCDMA.elf
 Finished building: default.size.stdout
  
 
-15:47:16 Build Finished. 0 errors, 0 warnings. (took 461ms)
+17:11:48 Build Finished. 0 errors, 0 warnings. (took 455ms)
 

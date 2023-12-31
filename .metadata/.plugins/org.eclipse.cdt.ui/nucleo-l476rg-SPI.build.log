@@ -1,4 +1,4 @@
-17:11:49 **** Incremental Build of configuration Debug for project nucleo-l476rg-SPI ****
+16:56:46 **** Incremental Build of configuration Debug for project nucleo-l476rg-SPI ****
 make -j8 all 
 arm-none-eabi-size   nucleo-l476rg-SPI.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size   nucleo-l476rg-SPI.elf
 Finished building: default.size.stdout
  
 
-17:11:49 Build Finished. 0 errors, 0 warnings. (took 479ms)
+16:56:46 Build Finished. 0 errors, 0 warnings. (took 576ms)
 

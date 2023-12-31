@@ -1,4 +1,4 @@
-17:12:01 **** Incremental Build of configuration Debug for project nucleo-l476rg-Timer ****
+16:56:46 **** Incremental Build of configuration Debug for project nucleo-l476rg-Timer ****
 make -j8 all 
 arm-none-eabi-size   nucleo-l476rg-Timer.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size   nucleo-l476rg-Timer.elf
 Finished building: default.size.stdout
  
 
-17:12:02 Build Finished. 0 errors, 0 warnings. (took 473ms)
+16:56:47 Build Finished. 0 errors, 0 warnings. (took 514ms)
 

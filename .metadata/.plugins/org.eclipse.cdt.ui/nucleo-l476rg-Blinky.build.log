@@ -1,4 +1,4 @@
-17:11:48 **** Incremental Build of configuration Debug for project nucleo-l476rg-Blinky ****
+16:56:43 **** Incremental Build of configuration Debug for project nucleo-l476rg-Blinky ****
 make -j8 all 
 arm-none-eabi-size   nucleo-l476rg-Blinky.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size   nucleo-l476rg-Blinky.elf
 Finished building: default.size.stdout
  
 
-17:11:48 Build Finished. 0 errors, 0 warnings. (took 462ms)
+16:56:44 Build Finished. 0 errors, 0 warnings. (took 757ms)
 
